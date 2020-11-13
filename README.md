@@ -60,7 +60,7 @@ render(
     isHalf={true}
     emptyIcon={<i className="far fa-star"></i>}
     halfIcon={<i className="fa fa-star-half-alt"></i>}
-    fullIcon={<i className="fa fa-star"></i>}
+    filledIcon={<i className="fa fa-star"></i>}
     activeColor="#ffd700"
   />,
 
