@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Star Rating for React and NextJs",
   "main": "dist/react-stars.js",
-  "repository": "https://github.com/stackpulse/react-star-rating",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackpulse/react-star-rating.git"
+  },
   "babel": {
     "presets": [
       "react",
@@ -55,5 +58,11 @@
     "webpack": "^1.12.15",
     "webpack-dev-server": "^1.14.1"
   },
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/stackpulse/react-star-rating/issues"
+  },
+  "homepage": "https://github.com/stackpulse/react-star-rating#readme",
+  "directories": {
+    "example": "example"
+  }
 }
