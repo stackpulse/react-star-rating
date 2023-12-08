@@ -1,6 +1,6 @@
 {
   "name": "@stack-pulse/react-star-rating",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Star Rating for React and NextJs",
   "main": "dist/react-stars.js",
   "repository": {
